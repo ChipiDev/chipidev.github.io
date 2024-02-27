@@ -1,0 +1,37 @@
+{
+    "animals": [
+        {
+            "name": "Raccoon",
+            "url": "./assets/Models/Animals/Raccoon_Animations.fbx"
+        },
+        {
+            "name": "Crow",
+            "url": "./assets/Models/Animals/Crow_Animations.fbx"
+        },
+        {
+            "name": "Duck",
+            "url": "./assets/Models/Animals/Duck_Animations.fbx"
+        }
+    ],
+    "scenes": [
+        {
+            "name": "Escena1",
+            "url": "./assets/Models/Scenes/Scene1.fbx"
+        }
+    ],
+    "cameras": [
+        {
+            "position": {
+                "x": 0.5949760046187953,
+                "y": 3.77500581711363,
+                "z": -1.6520879332813663
+            },
+            "quaternion": {
+                "x": -0.1425823300656645,
+                "y": 0.4337818052382997,
+                "z": 0.06973468340086934,
+                "w": 0.8869276737864414
+            }
+        }
+    ]
+}
