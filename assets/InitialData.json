@@ -1,12 +1,18 @@
 {
     "animals": [
         {
-            "name": "Raccoon",
-            "url": "./assets/Models/Animals/Raccoon_Animations.fbx"
+            "name": "RaccoonGLB",
+            "url": "./assets/Models/Animals/Raccoon3.glb",
+            "textureURL": "./assets/Models/Animals/T_Raccoon.png"
         },
         {
             "name": "Crow",
-            "url": "./assets/Models/Animals/Crow_Animations.fbx"
+            "url": "./assets/Models/Animals/Crow.glb",
+            "textureURL": "./assets/Models/Animals/T_Crow.png"
+        },
+        {
+            "name": "Raccoon",
+            "url": "./assets/Models/Animals/Raccoon_Animations.fbx"
         },
         {
             "name": "Duck",
