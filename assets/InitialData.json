@@ -11,6 +11,11 @@
             "textureURL": "./assets/Models/Animals/T_Crow.png"
         },
         {
+            "name": "Crow2",
+            "url": "./assets/Models/Animals/Crow.glb",
+            "textureURL": "./assets/Models/Animals/T_Crow.png"
+        },
+        {
             "name": "Raccoon",
             "url": "./assets/Models/Animals/Raccoon_Animations.fbx"
         },
