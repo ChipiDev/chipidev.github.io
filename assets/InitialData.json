@@ -2,7 +2,7 @@
     "animals": [
         {
             "name": "RaccoonGLB",
-            "url": "./assets/Models/Animals/Raccoon5.glb",
+            "url": "./assets/Models/Animals/Raccoon6.glb",
             "textureURL": "./assets/Models/Animals/T_Raccoon.png"
         },
         {
