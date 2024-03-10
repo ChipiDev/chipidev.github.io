@@ -57,5 +57,28 @@
                 "w": 0.8869276737864414
             }
         }
+    ],
+    "tvCamera": {
+        "position": {
+            "x": 1.5903525210639917,
+            "y": -7.893851425046741,
+            "z": -3.205464555587093
+        },
+        "quaternion": {
+            "x": 0.00019033166372810648,
+            "y": 0.9996687527273855,
+            "z": 0.007753252418141667,
+            "w": -0.02454049044480984
+        }
+    },
+    "tvVideos": [
+        {
+            "name": "BuenosDias",
+            "url": "./assets/Videos/BuenosDias.mp4"
+        },
+        {
+            "name": "StillAlive",
+            "url": "./assets/Videos/StillAlive.mp4"
+        }
     ]
 }
