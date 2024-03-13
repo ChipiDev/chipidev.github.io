@@ -6,6 +6,11 @@
             "textureURL": "./assets/Models/Animals/T_Raccoon.png"
         },
         {
+            "name": "RaccoonGLB2",
+            "url": "./assets/Models/Animals/Raccoon6.glb",
+            "textureURL": "./assets/Models/Animals/T_Raccoon.png"
+        },
+        {
             "name": "Crow",
             "url": "./assets/Models/Animals/Crow.glb",
             "textureURL": "./assets/Models/Animals/T_Crow.png"
@@ -16,12 +21,13 @@
             "textureURL": "./assets/Models/Animals/T_Crow.png"
         },
         {
-            "name": "Raccoon",
-            "url": "./assets/Models/Animals/Raccoon_Animations.fbx"
+            "name": "Crow3",
+            "url": "./assets/Models/Animals/Crow.glb",
+            "textureURL": "./assets/Models/Animals/T_Crow.png"
         },
         {
-            "name": "Duck",
-            "url": "./assets/Models/Animals/Duck_Animations.fbx"
+            "name": "Raccoon",
+            "url": "./assets/Models/Animals/Raccoon_Animations.fbx"
         }
     ],
     "scenes": [
@@ -49,6 +55,45 @@
                 "x": 3.068960825857476,
                 "y": -5.721141244566899,
                 "z": 0.27212361621543446
+            },
+            "quaternion": {
+                "x": -0.1425823300656645,
+                "y": 0.4337818052382997,
+                "z": 0.06973468340086934,
+                "w": 0.8869276737864414
+            }
+        },
+        {
+            "position": {
+                "x": 5.29554716497229,
+                "y": -14.267673600079371,
+                "z": 2.0039140107625553
+            },
+            "quaternion": {
+                "x": -0.1425823300656645,
+                "y": 0.4337818052382997,
+                "z": 0.06973468340086934,
+                "w": 0.8869276737864414
+            }
+        },
+        {
+            "position": {
+                "x": 20.139456092404373,
+                "y": -271.24455597016255,
+                "z": 13.549183307743359
+            },
+            "quaternion": {
+                "x": -0.1425823300656645,
+                "y": 0.4337818052382997,
+                "z": 0.06973468340086934,
+                "w": 0.8869276737864414
+            }
+        },
+        {
+            "position": {
+                "x": 90.64802349770687,
+                "y": -541.8847472280572,
+                "z": 68.38921246840219
             },
             "quaternion": {
                 "x": -0.1425823300656645,
