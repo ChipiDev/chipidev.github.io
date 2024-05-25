@@ -1,0 +1,36 @@
+{
+    "bubbles": [
+        {
+            "name": "Unity",
+            "iconSource": "./assets/icons/UnityLogo.png",
+            "description": "Descripcion de prueba",
+            "row": 0,
+            "column": 3,
+            "level": 1
+        },
+        {
+            "name": "C#",
+            "iconSource": "./assets/icons/UnityLogo.png",
+            "description": "Descripcion de prueba",
+            "row": 1,
+            "column": 3,
+            "level": 0.7
+        },
+        {
+            "name": "Unreal",
+            "iconSource": "./assets/icons/UnityLogo.png",
+            "description": "Descripcion de prueba",
+            "row": 0,
+            "column": 2,
+            "level": 0.4
+        },
+        {
+            "name": "c++",
+            "iconSource": "./assets/icons/UnityLogo.png",
+            "description": "Descripcion de prueba",
+            "row": 1,
+            "column": 2,
+            "level": 0.2
+        }
+    ]
+}
