@@ -118,11 +118,13 @@
     },
     "tvVideos": [
         {
-            "name": "BuenosDias",
-            "url": "./assets/Videos/BuenosDias.mp4"
+            "name": "2DynamicCamera",
+            "description": "Video de pruebas muy grasioso",
+            "url": "./assets/Videos/2DynamicCamera.mp4"
         },
         {
             "name": "StillAlive",
+            "description": "this was a trial",
             "url": "./assets/Videos/StillAlive.mp4"
         }
     ]
