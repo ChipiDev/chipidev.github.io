@@ -10,7 +10,7 @@
         },
         {
             "name": "C#",
-            "iconSource": "./assets/icons/UnityLogo.png",
+            "iconSource": "./assets/icons/CSharpLogo.png",
             "description": "Descripcion de prueba",
             "row": 1,
             "column": 3,
@@ -18,18 +18,58 @@
         },
         {
             "name": "Unreal",
-            "iconSource": "./assets/icons/UnityLogo.png",
+            "iconSource": "./assets/icons/UnrealEngineLogo.png",
             "description": "Descripcion de prueba",
             "row": 0,
             "column": 2,
             "level": 0.4
         },
         {
-            "name": "c++",
-            "iconSource": "./assets/icons/UnityLogo.png",
+            "name": "C++",
+            "iconSource": "./assets/icons/CPlusPlusLogo.png",
             "description": "Descripcion de prueba",
             "row": 1,
             "column": 2,
+            "level": 0.2
+        },
+        {
+            "name": "Three js",
+            "iconSource": "./assets/icons/ThreejsLogo.png",
+            "description": "Descripcion de prueba",
+            "row": 0,
+            "column": 1,
+            "level": 0.2
+        },
+        {
+            "name": "Typescript",
+            "iconSource": "./assets/icons/TypescriptLogo.png",
+            "description": "Descripcion de prueba",
+            "row": 1,
+            "column": 1,
+            "level": 0.2
+        },
+        {
+            "name": "Javascript",
+            "iconSource": "./assets/icons/JavascriptLogo.png",
+            "description": "Descripcion de prueba",
+            "row": 2,
+            "column": 1,
+            "level": 0.2
+        },
+        {
+            "name": "Github",
+            "iconSource": "./assets/icons/GithubLogo.png",
+            "description": "Descripcion de prueba",
+            "row": 0,
+            "column": 0,
+            "level": 0.2
+        },
+        {
+            "name": "Blender",
+            "iconSource": "./assets/icons/BlenderLogo.png",
+            "description": "Descripcion de prueba",
+            "row": 1,
+            "column": 0,
             "level": 0.2
         }
     ]
