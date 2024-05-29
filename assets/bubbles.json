@@ -3,7 +3,7 @@
         {
             "name": "Unity",
             "iconSource": "./assets/icons/UnityLogo.png",
-            "description": "Descripcion de prueba",
+            "description": "El motor con el que más he trabajado.\nCon más de 6 años de experiencia\nutilizando este motor, he creado\njuegos y experiencias para todo\ntipo de plataformas tanto offline\ncomo en línea.\nSiempre ha sido el programa que\nmás he utlizado gracias a su\nrapidez y eficiencia.",
             "row": 0,
             "column": 3,
             "level": 1
@@ -11,66 +11,74 @@
         {
             "name": "C#",
             "iconSource": "./assets/icons/CSharpLogo.png",
-            "description": "Descripcion de prueba",
+            "description": "El lenguaje de programación por\nexcelencia de Unity. El que más he\nutilizado para hacer juegos y para\nhacer experimentos. Sencillo y\nflexible.",
             "row": 1,
             "column": 3,
-            "level": 0.7
+            "level": 1
         },
         {
             "name": "Unreal",
             "iconSource": "./assets/icons/UnrealEngineLogo.png",
-            "description": "Descripcion de prueba",
+            "description": "Mi motor preferido y por el que\nempecé a crear videojuegos hayá\nen 2018.\nComencé a crear mis proyectos\nutilizando blueprints pero\nrápidamente pasé a programar\nen C++ con los conocimientos\nque tenía de Java.\nEl motor que más he utilizado\npara crear juegos de realidad\nvirtual y juegos en líneas\nusando el framework de Steam.",
             "row": 0,
             "column": 2,
-            "level": 0.4
+            "level": 0.8
         },
         {
             "name": "C++",
             "iconSource": "./assets/icons/CPlusPlusLogo.png",
-            "description": "Descripcion de prueba",
+            "description": "El lenguaje de programación\nprimerario de Unreal, además de\nlos blueprints.\nAprendí a utilizar este lenguaje\ncon la finalidad de optimizar\nmis juegos en Unreal Engine y\npasar todo mi código de blueprints\na C++ para mejor eficiencia y\nlegibilidad.\nTambién es el que más he usado\npara llevar a cabo todo el sistema\nde networking para mis juegos en\nlínea.",
             "row": 1,
             "column": 2,
-            "level": 0.2
+            "level": 0.66
         },
         {
             "name": "Three js",
             "iconSource": "./assets/icons/ThreejsLogo.png",
-            "description": "Descripcion de prueba",
+            "description": "Three js es el motor de javascript\nque he utilizado para crear ésta\npágina web con WebGL.\nHe trabajado laboralmente utilizando\néste motor para un visualizador 3D\nde una empresa y con lo que aprendí\ncreé lo que está visualizando.\nEste motor permite tener más control\ncon el renderizado de escenas que\ncualquier otro que haya usado.",
             "row": 0,
             "column": 1,
-            "level": 0.2
+            "level": 0.9
         },
         {
             "name": "Typescript",
             "iconSource": "./assets/icons/TypescriptLogo.png",
-            "description": "Descripcion de prueba",
+            "description": "El lenguaje de programación con el\nque trabajo con Three.js y Node.\nFue fácil adaptarme a este lenguaje\ndespués de aprender C# y C++. Más\nde 2 años de experiencia para\ndesarrollar páginas web en front.",
             "row": 1,
             "column": 1,
-            "level": 0.2
+            "level": 0.9
         },
         {
             "name": "Javascript",
             "iconSource": "./assets/icons/JavascriptLogo.png",
-            "description": "Descripcion de prueba",
+            "description": "Igual que typescript pero menos\nordenado en ciertos sentidos.\nUtilicé mucho este lenguaje para\nadicionar código a Potree.js,\nun visualizador de nube de puntos\nque utiliza Three.js.\nOptimicé el código fuente de\nPotree.js para los intereses\nde la empresa en la que trabajé.",
             "row": 2,
             "column": 1,
-            "level": 0.2
+            "level": 0.9
+        },
+        {
+            "name": "Gitlab",
+            "iconSource": "./assets/icons/GitlabIcon.png",
+            "description": "Gitlab es el servicio web que\nmás he utilizado laboralmente\npara el control de código y\nversionado de ramas combinado\ncon GitTortoise y Visual Studio Code.",
+            "row": 0,
+            "column": 0,
+            "level": 0.7
         },
         {
             "name": "Github",
             "iconSource": "./assets/icons/GithubLogo.png",
-            "description": "Descripcion de prueba",
-            "row": 0,
+            "description": "Muy parecido a Gitlab, es\nel servicio web que más utilizo\npara proyectos personales por su\nsencillez y popularidad.",
+            "row": 1,
             "column": 0,
-            "level": 0.2
+            "level": 0.7
         },
         {
             "name": "Blender",
             "iconSource": "./assets/icons/BlenderLogo.png",
-            "description": "Descripcion de prueba",
-            "row": 1,
+            "description": "El programa de código abierto\npara modelaje y animación 3D\nque más utilizo.\nEl 80% de los modelos 3D de\nésta página, así como todas las\nanimaciones, las creé con Blender.\nPese a que nos osy un experto, puedo\nmanejarme con este programa y\ncrear modelos de baja resolución\ncuando lo necesite.\nTambién para estudiar modelos ya \nexistentes y optimizarlos.",
+            "row": 2,
             "column": 0,
-            "level": 0.2
+            "level": 0.33
         }
     ]
 }
