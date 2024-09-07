@@ -120,46 +120,55 @@
         {
             "name": "Princess Tale",
             "description": "Este juego es con diferencia\nel que más he trabajado tanto\ndirigiendo como programando.\n\nSiendo cinco colaboradores\ncreamos un juego de miedo\nen un mes con un resultado\nfantástico.\n\nLa inteligenia artificial\nde los enemigos junto con\nla música adaptativa\ncrea situaciones tensas que\nacaban en buenos sustos.\n\nHecho en Unity.",
+            "descriptionEN": "This game is the one with\nwhich I have worked the most,\nboth directing and programming.\n\nAs five collaborators we created\na scary game in one month with\na fantastic result.\n\nMade in Unity.",
             "url": "./assets/Videos/1.A Princess Tale.webm"
         },
         {
             "name": "The Time Changer",
             "description": "Un juego de puzzles que juega\ncon el tiempo donde tu pasado\ny tú os ayudáis mutuamente\npara resolver los puzzles.\n\nTuvo un resultado excelente\ny ganó una gamejam en el\napartado técnico por su\ncomplejidad de código.\n\nHecho en Unity.",
+            "descriptionEN": "A puzzle game that plays over\ntime where your past and you\nhelp each other to solve the\npuzzles.\n\nIt had an excellent result\nand won a gamejam in the\ntechnical sectionfor its code\ncomplexity.\n\nMade in Unity.",
             "url": "./assets/Videos/2.The Time Changer.webm"
         },
         {
             "name": "Skate VR",
             "description": "Mi juego experimental favorito.\n\nAquí te puedes meter en la piel\nde un skater y realizar\ntrucos increíbles tan solo\ncon el moviento de tu cuerpo.\n\nEl juego no utiliza ningún\nbotón o joystick, el jugador\ndebe inclinar la cabeza o\nsaltar para desplazarse y\nsaltar obstáculos.\n\nMuy peligroso pero muy divertido.\n\nHecho en Unreal Engine.",
+            "descriptionEN": "My favourite experimental game.\n\nHere you can step into the shoes\nof a skateboarder and perform\nncredible tricks just by moving\nyour body.\n\nThe game doesn't use any buttons\nor joysticks,the player has\nto tilt his head or jump to\nmove and jump over obstacles.\n\nVery dangerous but a lot of fun.\n\nMade in Unreal Engine.",
             "url": "./assets/Videos/3.VRSkate.webm"
         },
         {
             "name": "Alice Isolation",
             "description": "En colaboración con dos artistas,\nparticipamos en una gamejam \nsobre el coronavirus.\n\nAquí Alice debe buscar tres llaves\npara poder escapar de un recinto\ngenerado proceduralmente antes \nde que se le acabe el oxígeno por\nculpa de un gas que se expande.\n\nHecho en Unreal Engine.",
+            "descriptionEN": "In collaboration with two artists,\nwe participate in a gamejam\nabout the coronavirus.\n\nHere Alice must find three keys to\nescape from a procedurally\ngenerated enclosure before she\nruns out of oxygen due to an\nexpanding gas.\n\nMade in Unreal Engine.",
             "url": "./assets/Videos/4.Alice Isolation.webm"
         },
         {
             "name": "VR Dungeon Generator",
             "description": "Herramienta para un juego de\nrealidad virtual donde lo\nque más destacó fue la\ngeneración del terreno.\n\nÉste generador de mazmorra es\ncapaz de generar de forma\naleatoria zontas formadas por\nsecciones que tengan cualquier\nforma, no tienen por qué\nser cuadradas o rectángulares.\n\nTambién puede expandirese\nverticalmente.\n\nHecho en Unity.",
+            "descriptionEN": "Tool for a virtual reality game\nwhere the most outstanding\nfeature was the terrain\ngeneration.\n\nThis dungeon generator is\ncapable ofrandomly generating\n zonesmade up of sections of any\nshape, not necessarily square or\nrectangular. It can also expand\nvertically\n\nMade in Unity.",
             "url": "./assets/Videos/5.VR Dungeon Generator.webm"
         },
         {
             "name": "Rhythm Reboot",
             "description": "Juego musical desarrollado\njunto con gente extranjera\npara una gamejam.\n\nEste juego cuenta con un\neditor que permite a los\njugadores crear sus propios\nniveles con sus canciones.\n\nLuego los jugadores podían\ncompartir sus niveles hechos.\n\nHecho en Unity.",
+            "descriptionEN": "Musical game developed together\nwith foreign people for a\ngamejam.\n\nThis game features an editor\nthat allows players to create\ntheir own levels with their songs.\nThen players could share their\ncustom levels.\n\nMade in Unity.",
             "url": "./assets/Videos/6.Rhythmreboot.webm"
         },
         {
             "name": "Dynamic Camera",
             "description": "Una herramienta para Unity\nque te permite modificar\nlos parámetros de una cámara\nde forma dinámica según la\nposición del jugador.\n\nEs una alternativa al\nfamoso plugin Cinemachine.\n\nSu sencilla interfaz permite\ncrear movimientos de cámara\nrápidamente y modificarlos\nmientras se hacen pruebas.\n\nHecho en Unity.",
+            "descriptionEN": "A tool for Unity that allows\nyou to modify the parameters of\na camera dynamically according\nto the player's position.\n\nIt's an alternative to the popular\nCinemachine plugin. Its simple\ninterface allows you to create\ncamera movements quickly and\nmodify them while testing.\n\nMade in Unity.",
             "url": "./assets/Videos/7.DynamicCamera.webm"
         },
         {
             "name": "Bakery Therapy",
             "description": "Novela visual desarrollada\npara una gamejam contando\ncon siete colaboradores\nextranjeros.\n\nAunque en el apartado técnico\nno sea muy interesante es\nuna buena experiencia trabajar\ncon gente de otros países\npara seguir entrenando el inglés\ny la comunicación.\n\n¡Se puede conocer a gente de\nlo más interesante!\n\nHecho en Unity.",
+            "descriptionEN": "Visual novel developed for a\ngamejam with seven foreign\ncollaborators.\n\nAlthough it's not very interesting\ntechnically, it's a good experience\nto work with people from other\ncountries to keep training English\nand communication skills, you\ncan meet some very interesting\npeople!\n\nMade in Unity.",
             "url": "./assets/Videos/8.BakeryTherapy.webm"
         },
         {
-            "name": "¡Ésta página!",
+            "name": "Portfolio Webpage",
             "description": "Página para enseñar mis\nconocimientos y en lo que\nhe trabajado.\n\nMi objetivo aquí es poder\nenseñar mi pasión por mi\ntrabajo y mi gran sentido\ndel humor de la forma que\nmejor se me da.\n\nHice todo el código así como\nel 80% de los modelos 3D y\nlas animaciones de los\nanimales.\n\nHecho con Three.js.",
+            "descriptionEN": "Page to show my knowledge\nand what I have worked on.\nMy goal here is to be able to\nshow my passion for my work\nand my great sense of humour in\nthe way I do it best.\n\nI did all the code as well as 80%\nof the 3D models and animal\nanimations.\n\nMade with Three.js.",
             "url": "./assets/Videos/9.WebProject.webm"
         }
     ]

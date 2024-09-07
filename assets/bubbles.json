@@ -4,6 +4,7 @@
             "name": "Unity",
             "iconSource": "./assets/icons/UnityLogo.png",
             "description": "El motor con el que más he trabajado.\nCon más de 6 años de experiencia\nutilizando este motor, he creado\njuegos y experiencias para todo\ntipo de plataformas tanto offline\ncomo en línea.\nSiempre ha sido el programa que\nmás he utlizado gracias a su\nrapidez y eficiencia.",
+            "descriptionEN": "With more than 5 years of experience\nusing this engine, I have created\ngames and experiences for all kinds\nof platforms both offline and online.\n\nIt has always been the programme\nI have used the most thanks\nto its speed and efficiency.",
             "row": 0,
             "column": 3,
             "level": 1
@@ -12,6 +13,7 @@
             "name": "C#",
             "iconSource": "./assets/icons/CSharpLogo.png",
             "description": "El lenguaje de programación por\nexcelencia de Unity. El que más he\nutilizado para hacer juegos y para\nhacer experimentos. Sencillo y\nflexible.",
+            "descriptionEN": "The programming language par\nexcellence of Unity. The one I've used\nthe most formaking games and\n experiments. Flexible and simple",
             "row": 1,
             "column": 3,
             "level": 1
@@ -20,6 +22,7 @@
             "name": "Unreal",
             "iconSource": "./assets/icons/UnrealEngineLogo.png",
             "description": "Mi motor preferido y por el que\nempecé a crear videojuegos hayá\nen 2018.\nComencé a crear mis proyectos\nutilizando blueprints pero\nrápidamente pasé a programar\nen C++ con los conocimientos\nque tenía de Java.\nEl motor que más he utilizado\npara crear juegos de realidad\nvirtual y juegos en líneas\nusando el framework de Steam.",
+            "descriptionEN": "I started creating my projects using\nblueprints but quickly moved on to\nprogramming in C++ with the knowledge\n I had of Java. The engine I've used the\nmost to create virtual reality games\nand online games using Steam.",
             "row": 0,
             "column": 2,
             "level": 0.8
@@ -28,14 +31,16 @@
             "name": "C++",
             "iconSource": "./assets/icons/CPlusPlusLogo.png",
             "description": "El lenguaje de programación\nprimerario de Unreal, además de\nlos blueprints.\nAprendí a utilizar este lenguaje\ncon la finalidad de optimizar\nmis juegos en Unreal Engine y\npasar todo mi código de blueprints\na C++ para mejor eficiencia y\nlegibilidad.\nTambién es el que más he usado\npara llevar a cabo todo el sistema\nde networking para mis juegos en\nlínea.",
+            "descriptionEN": "The primary programming language for\nUnreal, as well as blueprints. I learned\nto use this language in order to optimise\nmy games in Unreal Engine and move all\nmy code from blueprints to C++ for\nbetter efficiency and readability.",
             "row": 1,
             "column": 2,
-            "level": 0.66
+            "level": 0.85
         },
         {
             "name": "Three js",
             "iconSource": "./assets/icons/ThreejsLogo.png",
             "description": "Three js es el motor de javascript\nque he utilizado para crear ésta\npágina web con WebGL.\nHe trabajado laboralmente utilizando\néste motor para un visualizador 3D\nde una empresa y con lo que aprendí\ncreé lo que está visualizando.\nEste motor permite tener más control\ncon el renderizado de escenas que\ncualquier otro que haya usado.",
+            "descriptionEN": "Three js is the javascript engine that\nI have used to create this web page\nwith WebGL. I have worked using this\nengine for a 3D visualiser of a company\nand with what I learned I created what\nyou are watching right now.",
             "row": 0,
             "column": 1,
             "level": 0.9
@@ -44,6 +49,7 @@
             "name": "Typescript",
             "iconSource": "./assets/icons/TypescriptLogo.png",
             "description": "El lenguaje de programación con el\nque trabajo con Three.js y Node.\nFue fácil adaptarme a este lenguaje\ndespués de aprender C# y C++. Más\nde 2 años de experiencia para\ndesarrollar páginas web en front.",
+            "descriptionEN": "The programming language I work with\nis Three.js and Node. It was\neasy to adapt to this language after\nlearning C# and C++. More than 2\nyears of experience to develop\nfront-end web pages.",
             "row": 1,
             "column": 1,
             "level": 0.9
@@ -52,6 +58,7 @@
             "name": "Javascript",
             "iconSource": "./assets/icons/JavascriptLogo.png",
             "description": "Igual que typescript pero menos\nordenado en ciertos sentidos.\nUtilicé mucho este lenguaje para\nadicionar código a Potree.js,\nun visualizador de nube de puntos\nque utiliza Three.js.\nOptimicé el código fuente de\nPotree.js para los intereses\nde la empresa en la que trabajé.",
+            "descriptionEN": "I used this language a lot to add\ncode to Potree.js, a point\ncloud viewer that uses Three.js.\nI optimised the source code of\nPotree.js for the interests of the\ncompany I worked for.",
             "row": 2,
             "column": 1,
             "level": 0.9
@@ -60,6 +67,7 @@
             "name": "Gitlab",
             "iconSource": "./assets/icons/GitlabIcon.png",
             "description": "Gitlab es el servicio web que\nmás he utilizado laboralmente\npara el control de código y\nversionado de ramas combinado\ncon GitTortoise y Visual Studio Code.",
+            "descriptionEN": "Gitlab is the web service I\nhave used the most for code control\nand branch versioning combined\nwith GitTortoise and Visual Studio\nCode.",
             "row": 0,
             "column": 0,
             "level": 0.7
@@ -68,6 +76,7 @@
             "name": "Github",
             "iconSource": "./assets/icons/GithubLogo.png",
             "description": "Muy parecido a Gitlab, es\nel servicio web que más utilizo\npara proyectos personales por su\nsencillez y popularidad.",
+            "descriptionEN": "Much like Gitlab, it is\nthe web service I use most for personal\nprojects because of its simplicity and\npopularity.",
             "row": 1,
             "column": 0,
             "level": 0.7
@@ -76,6 +85,7 @@
             "name": "Blender",
             "iconSource": "./assets/icons/BlenderLogo.png",
             "description": "El programa de código abierto\npara modelaje y animación 3D\nque más utilizo.\nEl 80% de los modelos 3D de\nésta página, así como todas las\nanimaciones, las creé con Blender.\nPese a que nos osy un experto, puedo\nmanejarme con este programa y\ncrear modelos de baja resolución\ncuando lo necesite.\nTambién para estudiar modelos ya \nexistentes y optimizarlos.",
+            "descriptionEN": "The open source programme for\n3D modelling and animation\nthat I use the most.\n80% of the 3D models on this page,\nas well as all the animations, were\ncreated with Blender.",
             "row": 2,
             "column": 0,
             "level": 0.33
