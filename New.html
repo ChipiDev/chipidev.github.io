@@ -29,16 +29,33 @@
 </head>
 
 <body>
+	
+	<nav class="navbar is-black is-fixed-top snipcss-nGEjN" role="navigation" aria-label="main navigation" id="navbar">
+		<div class="container">
+			<div class="navbar-brand"> <a class="navbar-item" href="/#" style="pointer-events: none;"> <strong>José María</strong> </a>
+				<div class="navbar-burger" data-target="navbar-menu"> <span></span> <span></span> <span></span></div>
+			</div>
+			<div class="navbar-menu has-background-black" id="navbar-menu">
+				<div class="navbar-end"> <a id="HomeButton" class="navbar-item is-active" href="/#">HOME</a> <a id="HighlightsButton" class="navbar-item" href="/#highlights">HIGHLIGHTS</a> <a id="AboutButton"  class="navbar-item" href="/#about">ABOUT</a> <a class="navbar-item" href="/games">GAMES</a> <a class="navbar-item" href="/#contact">CONTACT</a> </a>
+					<!-- <div class="navbar-item has-dropdown is-hoverable"> <a class="navbar-link"> MORE </a>
+						<div class="navbar-dropdown has-background-black is-left"> <a href="/curriculum-vitae" class="navbar-item has-text-grey-light"> Curriculum Vitae </a> <a href="/honours-awards" class="navbar-item has-text-grey-light"> Honours &amp; Awards </a> <a href="/volunteering" class="navbar-item has-text-grey-light"> Volunteering </a></div>
+					</div> -->
+				</div>
+			</div>
+		</div>
+	</nav>
+
+	
 
 
 	<div id="fullpage">
 		<!-- start home -->
 		<section id="home">
 			<video autoplay muted playsinline loop id="Home-Video">
-				<source src="https://onedrive.live.com/download?resid=9594E849DC7FC39E%2160477&authkey=!AKyn8XT9j86gY6Q"
+				<source src="./videos/BackgroundVideo.mp4"
 					type="video/mp4">
-				<source src="https://onedrive.live.com/download?resid=9594E849DC7FC39E%2160478&authkey=!AEpaeSAh2gpGSHY"
-					type="video/ogg">
+				<!-- <source src=""
+					type="video/ogg"> -->
 			</video>
 
 			<div class="container" id="Home-Text">
@@ -60,7 +77,7 @@
 		</section>
 		<!-- end home -->
 
-		<section id="highlights-section-body">
+		<section id="highlights">
 			<div id="highlights-section">
 				<div id="highlights-card">
 					<img src="./images/Princess_Pancarta.png" alt="" id="highlights-card-image"> </img>
@@ -93,19 +110,20 @@
 					</div>
 				</div>
 				<div id="ProjectsButtonBox">
-					<a href="#work" class="btn btn-default smoothScroll wow fadeInUp" data-wow-delay="1s" id="ProjectsButton">See more projects</a>
+					<a href="#work" class="btn btn-default smoothScroll wow fadeInUp" data-wow-delay="1s"
+						id="ProjectsButton">See more projects</a>
 				</div>
 			</div>
 		</section>
 
 
-		<section id="horizontal-card-section">
+		<section id="about">
 			<div class="horizontal-card">
 				<div class="card-image">
 					<img src="./images/SelfPortrait1.png" alt="Descripción de la imagen">
 				</div>
 				<div class="card-content">
-					<!-- <h2>Título del Contenido</h2> -->
+					<h2 style="justify-content: center; text-align: center;">About Me</h2>
 					<p>Hello! I'm José María, a video game developer and programmer. I love participating in game jams
 						and working in collaborative teams. One of my greatest passions is experimenting with various
 						projects and video game genres, always striving to find the best ways to approach them. I’m
@@ -352,6 +370,8 @@
 	<script src="js/jquery.simple-text-rotator.js"></script>
 	<!-- custom -->
 	<script src="js/custom.js"></script>
+
+	<script src="js/main.js"></script>
 
 </body>
 
