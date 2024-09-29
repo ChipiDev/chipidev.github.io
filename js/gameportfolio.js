@@ -11,8 +11,6 @@ window.onload = function () {
         .then((json) => {
 
             GamePortfolioData = json.PortfolioVideos;
-            console.log("ASADASDASDASD");
-            console.log(GamePortfolioData);
 
         });
 
