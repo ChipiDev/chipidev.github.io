@@ -492,6 +492,7 @@ footer hr {
 #highlights-section {
     /* background-color: #424242; */
     height: auto;
+    pointer-events: all;
     /* width: 100%; */
 
 }

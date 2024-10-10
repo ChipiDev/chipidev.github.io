@@ -1,3 +1,20 @@
+function getElementByAttribute(attr, value, root) {
+    root = root || document.body;
+    if(root.hasAttribute(attr) && root.getAttribute(attr) == value) {
+        return root;
+    }
+    var children = root.children, 
+        element;
+    for(var i = children.length; i--; ) {
+        element = getElementByAttribute(attr, value, children[i]);
+        if(element) {
+            return element;
+        }
+    }
+    return null;
+}
+
+
 addEventListener("scroll", (event) => {
 
     
@@ -22,3 +39,23 @@ addEventListener("scroll", (event) => {
         }
     }
 });
+
+
+
+
+// window.onload = function () {
+//     console.log("On load");
+//     var card1 = getElementByAttribute("data-card", "Card1", document.body);
+//     var card2 = getElementByAttribute("data-card", "Card2", document.body);
+//     var card3 = getElementByAttribute("data-card", "Card3", document.body);
+
+//     card1.addEventListener("mouseover", (event) => {
+
+//         console.log("dfglikjhbdfsg")
+//     });
+    
+//     console.log(card1);
+//     console.log(card2);
+//     console.log(card3);
+
+// }

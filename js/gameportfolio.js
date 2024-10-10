@@ -16,7 +16,7 @@ window.onload = function () {
 
     function openVideo(video) {
         GamePortfolioData.forEach(data => {
-            if (video == data.title) {
+            if (video == data.id) {
                 const videoSection = document.getElementById("video-section");
                 const videoPlayer = document.getElementById("video-player");
 
@@ -27,6 +27,7 @@ window.onload = function () {
                 videoPlayer.load();
                 videoPlayer.play();
 
+                videoPlayer.volume = 0.2;
                 // Hacer scroll suave hacia la sección del video
                 // videoSection.scrollIntoView({
                 //     behavior: "smooth"
@@ -48,6 +49,19 @@ window.onload = function () {
                     videoSection.scrollIntoView({
                         behavior: "smooth"
                     });
+                }
+
+                const customButton = document.getElementById("card-button-custom");
+                console.log(customButton)
+                console.log(data);
+                if (data.downloadText.length > 0){
+                    customButton.style.position = "relative";
+                    customButton.style.visibility = "visible";
+                    customButton.innerHTML = data.downloadText;
+                    customButton.href = data.downloadLink;
+                }else {
+                    customButton.style.visibility = "hidden";
+                    customButton.style.position = "absolute";
                 }
             }
         });
