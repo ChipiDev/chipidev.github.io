@@ -11,7 +11,7 @@
         {
             "id": "PrincessTale",
             "title": "A Princess Tale: Rise of the Wolves",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "A Princess Tale: Rise of the Wolves is a horror game in which the player plays a girl who travels to a fairy tale in which a princess must escape from wolves that are chasing her after the disappearance of her parents.\n\nThe story features a plot twist where it is revealed who the wolves really are and why they are chasing her.",
             "url": "./videos/PrincesTale.mp4",
             "downloadText": "Download A Princess Tale",
             "downloadLink": "https://chipidev.itch.io/a-princess-tale-rise-of-the-wolves"
@@ -19,7 +19,7 @@
         {
             "id": "Veronica",
             "title": "Veronica",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Veronica is a horror game with escape room theme in which our protagonist suffers from bipolar disorder and by listening to different types of music is able to change the world around him and solve riddles.",
             "url": "./videos/Veronica.mp4",
             "downloadText": "Download Veronica",
             "downloadLink": "https://colorsroom.itch.io/veronica"
@@ -27,7 +27,7 @@
         {
             "id": "HeartWeaver",
             "title": "Heart Weaver",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Heart Weaver is a platform and puzzle game where our protagonist must surpass herself through every challenge she faces.\n\nIn the middle of her adventure she meets Mark, a cantankerous book that will help her overcome her fears.\n\nThis game features classic puzzle platformer mechanics plus additions such as gravity changes and mood changes with various effects.",
             "url": "./videos/HeathWeaver.mp4",
             "downloadText": "Download Heart Weaver DEMO",
             "downloadLink": "https://www.krakensdenstudios.com/"
@@ -35,7 +35,7 @@
         {
             "id": "TheTimeChanger",
             "title": "The Time Changer",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "The Time Changer is a platform and puzzle game where the central mechanic is the manipulation of time. The player can record his own actions and then use them strategically to solve the challenges. It is not only about recording movements, but also about planning carefully so that the past actions interact correctly with the present ones in order to overcome the puzzles.",
             "url": "./videos/TheTimeChanger.mp4",
             "downloadText": "Download The Time Changer",
             "downloadLink": "https://chipidev.itch.io/the-time-changer"
@@ -43,7 +43,7 @@
         {
             "id": "AliceIsolation",
             "title": "Alice Isolation",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Alice Isolation is an exploration game where the protagonist faces a crisis after a gas leak in her research center. Her mission is to go through a procedurally generated environment, searching for keys to find an escape route while exploring different areas in search of solutions.",
             "url": "./videos/Alice.mp4",
             "downloadText": "Download Alice Isolation",
             "downloadLink": "https://gamejolt.com/games/Alice_isolation/477997"
@@ -51,7 +51,7 @@
         {
             "id": "RhythmReboot",
             "title": "Rhythm Reboot",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Rhythm Reboot is a musical game in which the player must synchronize his actions with precision, pressing the keys at the exact moment to accumulate points. The game offers multiple dynamic scenarios that change as the music progresses. In addition, it includes a built-in editor that allows players to create their own custom levels using their favorite songs.",
             "url": "./videos/RythimReboot.mp4",
             "downloadText": "Download Rhythm Reboot",
             "downloadLink": "https://game-junk.itch.io/rhythmreboot"
@@ -59,7 +59,7 @@
         {
             "id": "Sustainature",
             "title": "Sustainature",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Sustainature is a children's game that teaches players the importance of recycling. Children must drag objects to the correct containers or creatively reuse them in the environment, promoting learning about environmental stewardship in an interactive and fun way.",
             "url": "./videos/Sustainature.mp4",
             "downloadText": "Play Sustainature",
             "downloadLink": "https://ericfitter.itch.io/sustainature"
@@ -67,7 +67,7 @@
         {
             "id": "BakeryTherapy",
             "title": "Bakery Therapy",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Bakery Therapy is a narrative game in which the player must sell cakes to customers according to their emotional needs. You will listen to the stories of each character to understand their emotions and choose the cake that best suits their feelings.",
             "url": "./videos/BakeryTherapy.mp4",
             "downloadText": "Play Bakery Therapy",
             "downloadLink": "https://leoreth.itch.io/bakery-therapy"
@@ -75,7 +75,7 @@
         {
             "id": "CustodianOfMadness",
             "title": "Custodian Of Madness",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Custodian Of Madness is a simulation game in which history's greatest scientists are emulated to continue solving current problems. The player's challenge is to keep them oblivious to the fact that they are being emulated, while fixing bugs and glitches that may arise in the system, ensuring that the simulation remains stable.",
             "url": "./videos/CustodianOfMadness.mp4",
             "downloadText": "Download Custodian Of Madness",
             "downloadLink": "https://eam86bcn.itch.io/custodio-de-la-cordura"
@@ -83,7 +83,7 @@
         {
             "id": "VRSkate",
             "title": "VR Skate",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "VR Skate is a project designed specifically for virtual reality. The player controls the movement and jumps by turning his body, without the need to use the controllers. This unique mechanics offers an immersive and original experience, providing an authentic feeling of skating in a virtual environment.",
             "url": "./videos/SkateVR.mp4",
             "downloadText": "",
             "downloadLink": ""
@@ -91,7 +91,7 @@
         {
             "id": "AnimalIdleAdventure",
             "title": "Animal Idle Adventure",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Animal Idle adventure is a prototype Idle game in which our character must go through different areas collecting coins, eliminating enemies and improving his stats.\n\nLike the rest of Idle games, this game keeps collecting rewards even when you are not playing.",
             "url": "./videos/AnimalIdleAdventure.mp4",
             "downloadText": "",
             "downloadLink": ""
@@ -99,7 +99,7 @@
         {
             "id": "RaccVSPanda",
             "title": "Racc VS Panda",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Racc VS Panda is an online multiplayer game for cell phones, in which you control cartoon characters and face off against other players, in the style of the popular Duck Game.\n\nIn the demo presented, Player 1 controls the game from the computer where it is being recorded, while Player 2 uses a version on a cell phone.",
             "url": "./videos/RaccVSPanda.mp4",
             "downloadText": "",
             "downloadLink": ""
@@ -107,7 +107,7 @@
         {
             "id": "DynamicCameraEditor",
             "title": "Dynamic Camera Editor",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Dynamic Camera Editor is a plugin I developed in Unity to facilitate the creation of smooth transitions between static cameras in a comfortable and efficient way, allowing to preview the changes in real time during the game.",
             "url": "./videos/DynamicCameraEditor.mp4",
             "downloadText": "",
             "downloadLink": ""
@@ -115,7 +115,7 @@
         {
             "id": "Space&Time",
             "title": "Space & Time",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "Space & Time is the evolution of The Time Changer, now developed with Unreal Engine 5. It retains the main mechanics of recording the player's actions, but adds the ability to use the physics engine, which allows creating more complex and varied puzzles, making them even more entertaining.",
             "url": "./videos/Space&Time.mp4",
             "downloadText": "",
             "downloadLink": ""
@@ -123,7 +123,7 @@
         {
             "id": "3DDungeonGenerator",
             "title": "3D Dungeon Generator",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "3D Dungeon Generator is a tool I developed to generate dungeons in a 3D space, allowing both horizontal and vertical designs. It offered great flexibility to create rooms with any shape, giving the user a lot of freedom in the design.",
             "url": "./videos/3DDungeonGenerator.mp4",
             "downloadText": "",
             "downloadLink": ""
@@ -131,7 +131,7 @@
         {
             "id": "PreviousWebPortfolio",
             "title": "Previous Web Portfolio",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "This is my previous website, developed entirely in Three.js. Although it's much more interactive than the new one, it didn't achieve the results I wanted. However, I'm very fond of it, take a look at it!",
             "url": "./videos/PreviousWebPortfolio.mp4",
             "downloadText": "Go To Previous Portfolio",
             "downloadLink": "/Old.html"
@@ -139,7 +139,7 @@
         {
             "id": "VRSkateMusic",
             "title": "VR Skate Music",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius non eros in faucibus. Integer diam nulla, interdum eget scelerisque eget, scelerisque id enim. Mauris et molestie mi. Praesent non nisi mi. Vivamus risus augue, vulputate sit amet ante at, commodo pellentesque sapien. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sit amet mi laoreet, lacinia ipsum in, aliquet enim. Nulla commodo venenatis ipsum vel tincidunt. Nam eget ex imperdiet nibh ullamcorper iaculis. Etiam bibendum faucibus mauris quis faucibus.",
+            "description": "VR Skate Music is a revamped version of the VR Skate game, with a musical theme. As in the original, the player must physically move to get around, but this time while riding through rhythm-filled streets.\n\nThe game also includes an integrated level editor, where users can upload and edit their own songs, adding even more creativity and customization to the experience.",
             "url": "./videos/VRSkateMusic.mp4",
             "downloadText": "",
             "downloadLink": ""

@@ -755,7 +755,7 @@ svg:not(:root).svg-inline--fa {
     flex-direction: column;
     align-items: center;
     padding: 20px;
-    background-color: #f5f5f5;
+    /* background-color: #f5f5f5; */
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
@@ -797,12 +797,13 @@ video {
 /* Botones de contacto */
 .card-buttons {
     display: flex;
+    flex-direction: column; /* Coloca los botones en una columna (vertical) */
     justify-content: center;
-    gap: 20px;
+    align-items: center; /* Asegura que estén centrados horizontalmente */
+    gap: 20px; /* Espacio entre los botones */
     margin-top: 20px;
     margin-bottom: 20px;
-    flex-wrap: wrap;
-    padding-left: 3%;
+    /* padding-left: 3%; */
 }
 
 .card-button {
@@ -814,7 +815,12 @@ video {
     border-radius: 25px;
     transition: background-color 0.3s ease;
     display: inline-block;
+    text-align: center; /* Asegura que el texto esté centrado dentro del botón */
+}
 
+#card-button-custom
+{
+    background-color: #3273dc;
 }
 
 .card-button:hover {
