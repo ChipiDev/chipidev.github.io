@@ -434,6 +434,9 @@ svg:not(:root).svg-inline--fa {
     background-image: url('../images/Icons/VRSkateMusic.png');
 }
 
+#Image18 {
+    background-image: url('../images/Icons/DynamicSplineCamera.png');
+}
 
 
 
@@ -730,11 +733,11 @@ svg:not(:root).svg-inline--fa {
 
 #home-portfolio {
     background-color: #0a0a0a;
-    height: 400px;
+    height: 300px;
 }
 
 #home-portfolio h1 {
-    padding-top: 200px;
+    padding-top: 150px;
     font-size: 70px;
 }
 
