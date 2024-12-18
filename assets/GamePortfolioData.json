@@ -149,8 +149,8 @@
             "title": "Dynamic Spline Camera",
             "description": "Dynamic Spline Camera is a development plugin for using a spline camera system in Unreal Engine 5.\nThe plugin has its own editor to quickly place virtual cameras in a scene following the player's position.\nThe tool allows you to preview the transition of the cameras without playing and uses the editor's viewport to quickly place the cameras. The tool is easy to use and designed to work quickly.",
             "url": "./videos/DynamicSplineCamera.mp4",
-            "downloadText": "COMING SOON TO FAB.COM",
-            "downloadLink": "#DynamicSplineCamera"
+            "downloadText": "Buy in Fab.com",
+            "downloadLink": "https://www.fab.com/listings/2910a2f9-3793-42d8-8c90-f048d2c3b0fe"
         }
     ]
 }
